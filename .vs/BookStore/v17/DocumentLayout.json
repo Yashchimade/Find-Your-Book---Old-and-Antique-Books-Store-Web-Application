@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\models\\defaultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:models\\defaultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\migrations\\20240811182807_addcategorytobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:migrations\\20240811182807_addcategorytobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\migrations\\20240708194644_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:migrations\\20240708194644_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\migrations\\bookstorecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:migrations\\bookstorecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|d:\\cdac\\cdac march 24\\final project\\bookstore final\\bookstore\\wwwroot\\css\\contactus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{27EC1714-3916-422A-98DF-20FFD03D3FCE}|BookStore.csproj|solutionrelative:wwwroot\\css\\contactus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 123,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:54:40.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwEoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:53:31.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:53:16.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:53:02.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginWith2fa.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:52:33.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:09:07.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:50:22.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResendEmailConfirmation.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:52:29.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:10:12.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:52:26.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:52:16.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoreController.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "Controllers\\StoreController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:52:13.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:52:11.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:52:08.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:52:02.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:51:55.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:51:44.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DefaultUser.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Models\\DefaultUser.cs",
+              "RelativeDocumentMoniker": "Models\\DefaultUser.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Models\\DefaultUser.cs",
+              "RelativeToolTip": "Models\\DefaultUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:51:35.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:51:02.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:50:48.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAqwHsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T12:13:21.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:33:22.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Store\\Index.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "Views\\Store\\Index.cshtml",
+              "ViewState": "AQIAALIBAAAAAAAAAAAAANMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T08:31:19.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240811182807_AddCategoryToBook.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Migrations\\20240811182807_AddCategoryToBook.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240811182807_AddCategoryToBook.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Migrations\\20240811182807_AddCategoryToBook.cs",
+              "RelativeToolTip": "Migrations\\20240811182807_AddCategoryToBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:16:05.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:33:15.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAgwLgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T17:06:38.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240708194644_InitialCreate.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Migrations\\20240708194644_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240708194644_InitialCreate.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Migrations\\20240708194644_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240708194644_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:12:37.22Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookStoreContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Migrations\\BookStoreContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\BookStoreContextModelSnapshot.cs",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Migrations\\BookStoreContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\BookStoreContextModelSnapshot.cs",
+              "ViewState": "AQIAAKUBAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:16:11.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConfirmEmailChange.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:09:05.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:09:00.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T06:08:50.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Store\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Store\\Details.cshtml",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\Views\\Store\\Details.cshtml",
+              "RelativeToolTip": "Views\\Store\\Details.cshtml",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T08:31:14.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "contactus.css",
+              "DocumentMoniker": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\wwwroot\\css\\contactus.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\contactus.css",
+              "ToolTip": "D:\\CDAC\\CDAC March 24\\Final Project\\BookStore Final\\BookStore\\wwwroot\\css\\contactus.css",
+              "RelativeToolTip": "wwwroot\\css\\contactus.css",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAgwJgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T12:15:24.009Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
